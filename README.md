@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Siddharth Gupta</h1>
 <h3 align="center">Build that makes impact...</h3>
 
-- 🌱 I’m currently learning **Pyhton, Flask, Javascript, React**
-
 - 👨‍💻 All of my projects are available at [https://shorturl.at/jsyEX](https://shorturl.at/jsyEX)
 
 - 📫 How to reach me **siddharthguptaatwork@gmail.com**
