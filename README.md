@@ -1,4 +1,4 @@
-<h1 align="center"> 👋, I'm Siddharth Gupta</h1>
+<h1 align="center"> 👋, I'm Sid</h1>
 <h3 align="center">AI driven engineer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid0000007&label=Profile%20views&color=0e75b6&style=flat" alt="sid0000007" /> </p>
