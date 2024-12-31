@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Daccotta](https://daccotta.com/)
 
-- 🌱 I’m currently learning **Building Scalable Softwares**
+- 🌱 I’m currently learning **Semester exams :(**
 
 - 👨‍💻 All of my projects are available at: Soon
 
