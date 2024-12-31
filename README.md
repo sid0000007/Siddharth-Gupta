@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siddharthgt125@gmail.com**
 
-- ⚡ Fun fact **Watch Tech Product Unboxing (even though I didn't wanted to buy them)**
+- ⚡ Fun fact **Bike geek**
 
 
 
