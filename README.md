@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid0000007&label=Profile%20views&color=0e75b6&style=flat" alt="sid0000007" /> </p>
 
+- Open to work?  **Yes**
+
 - 🔭 I’m currently working on [Daccotta](https://daccotta.com/)
 
 - 🌱 I’m currently learning **Building Scalable Softwares**
