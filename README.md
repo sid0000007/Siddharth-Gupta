@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI Models**
 
-- 👨‍💻 All of my projects are available at: Soon
+- 👨‍💻 All of my projects are available at: [siddharthgt.tech](https://www.siddharthgt.tech)
 
 - 📝 I regularly write articles on [https://x.com/siddgupta007](https://x.com/siddgupta007)
 
