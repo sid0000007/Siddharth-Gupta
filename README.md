@@ -5,7 +5,7 @@
 
 - Open to work?  **Yes**
 
-- 🔭 I’m currently working on [Daccotta](https://daccotta.com/)
+- 🔭 I’m currently working on "NULL"
 
 - 🌱 I’m currently learning **Generative AI Models**
 
