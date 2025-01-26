@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siddharthgt125@gmail.com**
 
-- ⚡ Fun fact **Bike geek**
+- ⚡ Apart Coding ? **Bike geek**
 
 
 
