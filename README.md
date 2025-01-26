@@ -5,7 +5,7 @@
 
 - Open to work?  **Yes**
 
-- 🔭 I’m currently working on "NULL"
+- 🔭 I’m currently working on **__**
 
 - 🌱 I’m currently learning **Generative AI Models**
 
